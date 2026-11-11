@@ -60,3 +60,15 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# Local project files
+.DS_Store
+DerivedData/
+xcuserdata/
+*.xcuserstate
+LampBLEProbe.zip
+LampBLEProbe-key*.json
+.private/
+.venv/
+__pycache__/
+LampBLEProbe/HANDOFF.zh-CN.md
